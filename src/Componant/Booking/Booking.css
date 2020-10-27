@@ -1,0 +1,52 @@
+.homeCom{
+    background-image: url('../../Image/Rectangle\ 1.png');    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+       
+}
+.btn-primary {
+    background-color: #ffc107 !important;
+    border: none !important;
+}
+p{
+    color: #ffffff;
+    text-align: justify;
+    padding-left: 20px;
+   
+ }
+.demoDetails{
+   padding: 20px;
+   padding-top: 50px;
+   text-align: center;
+   z-index: 1;
+} 
+.header{
+    z-index: 1;
+}
+Button{
+    z-index: 1;
+}
+.bookingDetails{
+    background-color: #ffff;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius:10px;
+    margin: 40px;
+    margin-left: 100px;
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+}
+.dateSeg{
+    width:100px;
+}
+.loginBtn{
+    text-align: center;
+    background-color: #ffc107 !important;
+    border: none !important;
+    padding: 7px 20px;
+    border-radius: 5px;
+    display: block;
+
+}

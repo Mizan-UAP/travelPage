@@ -1,0 +1,10 @@
+.imgIcon{
+    height: 25px;
+    width: 25px;
+}
+
+.navbar-dark.NavLogin .navbar-nav .nav-link {
+    font-size: larger;
+    font-weight: 700;
+    color: #000 !important;
+}

@@ -1,0 +1,21 @@
+
+::placeholder{
+    text-align: center;
+}
+.logo{
+    height: 100px;
+    
+   
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,0);
+}
+.navbar-dark .navbar-nav .nav-link {
+    font-size: larger;
+    font-weight: 700;
+    color: #FFFFFF !important;
+}
+.form-inline .form-control {
+      width: 600px !important;
+   
+}
